@@ -22,13 +22,13 @@ Ini adalah proyek web profil sederhana yang dibuat menggunakan HTML, CSS, dan Ja
 1. Clone repository ini ke komputer lokal Anda:
 
     ```bash
-    git clone https://github.com/username/web-profil.git
+    git clone https://github.com/Khoirul-Yardan/portov2.git
     ```
 
 2. Buka folder proyek:
 
     ```bash
-    cd web-profil
+    cd portov2
     ```
 
 3. Buka file `index.html` menggunakan browser favorit Anda.
@@ -46,4 +46,4 @@ Anda dapat mengedit konten web dengan cara:
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+Proyek ini dilisensikan di bawah [Khoirul-Yardan](LICENSE).
